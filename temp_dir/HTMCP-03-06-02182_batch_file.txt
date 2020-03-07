@@ -1,0 +1,10 @@
+new
+genome hg19
+load /projects/analysis/analysis26/A62911/merge_bwa-mem-0.7.6a/150nt/hg19a/A62911_2_lanes_dupsFlagged.bam
+load /projects/analysis/analysis26/IX4790/C9KMLANXX_1/A62929/75nt/hg19a_jg-e69/bwa-mem-0.7.6a/C9KMLANXX_1_TGAATG_withJunctionsOnGenome_dupsFlagged.bam
+load /projects/analysis/analysis26/A61302/HYNJ3CCXX_2/A61302/150nt/hg19a/bwa-mem-0.7.6a/A61302_1_lane_dupsFlagged.bam
+snapshotDirectory 
+goto 6:31237667-31237967
+sort position
+maxPanelHeight 700
+snapshot

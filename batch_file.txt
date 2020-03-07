@@ -1,0 +1,154 @@
+new
+genome hg19
+load /projects/analysis/analysis30/A78433/merge24661_bwa-mem-0.7.6a-sb/150nt/hg19a/A78433_7_lanes_dupsFlagged.bam
+load /projects/analysis/analysis30/IX5841/CBTRWANXX_4/A78494/75nt/hg19a_jg-e69/bwa-mem-0.7.6a-sb/CBTRWANXX_4_CAGCAG_withJunctionsOnGenome_dupsFlagged.bam
+load /projects/analysis/analysis30/A76746/HCV2CCCXY_7/A76746/150nt/hg19a/bwa-mem-0.7.6a-sb/A76746_1_lane_dupsFlagged.bam
+snapshotDirectory 
+goto 6:32548449-32548749
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29910185-29910485
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31238747-31239047
+sort position
+maxPanelHeight 700
+snapshot
+goto 3:119256040-119256340
+sort position
+maxPanelHeight 700
+snapshot
+goto 3:119256121-119256421
+sort position
+maxPanelHeight 700
+snapshot
+goto 3:121827967-121828267
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29911142-29911442
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29912017-29912317
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31237937-31238237
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31323091-31323391
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31238261-31238561
+sort position
+maxPanelHeight 700
+snapshot
+goto 15:45010924-45011224
+sort position
+maxPanelHeight 700
+snapshot
+goto 16:57103622-57103922
+sort position
+maxPanelHeight 700
+snapshot
+goto 19:10394603-10394903
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:32816291-32816591
+sort position
+maxPanelHeight 700
+snapshot
+goto 19:10395788-10396088
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29910221-29910521
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29910531-29910831
+sort position
+maxPanelHeight 700
+snapshot
+goto 16:57056011-57056311
+sort position
+maxPanelHeight 700
+snapshot
+goto 16:57101191-57101491
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31322851-31323151
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31237667-31237967
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31324767-31325067
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:32548404-32548704
+sort position
+maxPanelHeight 700
+snapshot
+goto 16:57060353-57060653
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29911970-29912270
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31323222-31323522
+sort position
+maxPanelHeight 700
+snapshot
+goto 15:45007683-45007983
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29911105-29911405
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31323156-31323456
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31323035-31323335
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29911134-29911434
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:31238041-31238341
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:29912019-29912319
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:32815708-32816008
+sort position
+maxPanelHeight 700
+snapshot
+goto 6:32816459-32816759
+sort position
+maxPanelHeight 700
+snapshot
+goto 19:10385301-10385601
+sort position
+maxPanelHeight 700
+snapshot

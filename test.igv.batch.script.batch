@@ -1,0 +1,14 @@
+new
+genome hg19
+load /projects/da_workspace/szspace/data/giab/RMNISTHS_30xdownsample.bam
+snapshotDirectory /projects/da_workspace/szspace/data/giab/images
+
+goto 1:239239-239439
+sort position
+snapshot
+goto 1:239382-239582
+sort position
+snapshot
+goto 1:240047-240247
+sort position
+snapshot

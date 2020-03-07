@@ -1,0 +1,12 @@
+new
+genome hg19
+load {{tdna_bam}}
+load {{trna_bam}}
+load {{ndna_bam}}
+snapshotDirectory {{snapdir}}
+{% for pos in positions %}
+goto {{pos}}
+sort position
+maxPanelHeight 700
+snapshot
+{% endfor %}
